@@ -1,7 +1,0 @@
-
-Function calls in python3 require explicit conversion of arguments. eg:from inputted string to int
-##Looping through the lists in python3 each time is in random order
-whereas in python,it is in the same order
-isdecimal() is not present for string in python2
-os.listdir() takes 1 argument in python2,whereas in python3,without any argument ,lists the files in current working directory
-
